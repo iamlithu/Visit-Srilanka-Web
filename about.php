@@ -55,8 +55,9 @@
     <!-- header section starts  -->
 
 <header class="header">
-
-    <a href="#" class="logo"> <i class="fas fa-hiking"></i> Dream.Destinations </a>
+    <a href="#" class="logo">  <!-- <i class="fas fa-hiking"></i>  -->
+	<img src="images/Dream_Destinations.png" alt="" height="40px" width="60px"></i>
+ Dream Destinations </a>
 
     <nav class="navbar">
         <div id="nav-close" class="fas fa-times"></div>
@@ -101,7 +102,7 @@
             <h1>Who We Are?</h1>
         </div>
         <div class="paragraph">
-            <p>visitsrilanka.live is your go-to resource for planning a trip to Sri Lanka in 2023 which is a product of a group of undergraduate students in NSBM Green University under the web application development module. <br>Our website features a wide range of information on the top attractions, adventure activities, upcoming events, a blog of popular tourist destinations, and traditional products such as masks, spices, arts, foods, industrial goods... etc. 
+            <p>visitsrilanka.live is your go-to resource for planning a trip to Sri Lanka in images\gangarama.jpg which is a product of a group of undergraduate students in NSBM Green University under the web application development module. <br>Our website features a wide range of information on the top attractions, adventure activities, upcoming events, a blog of popular tourist destinations, and traditional products such as masks, spices, arts, foods, industrial goods... etc. 
 
 
              Whether you're looking to relax on beautiful beaches, explore ancient temples, or discover the local cuisine, visitsrilanka.live has you covered. We can't wait to help you plan an unforgettable trip to Sri Lanka.</p>

@@ -99,7 +99,7 @@ section {
     text-decoration: none;
     margin-left: 2rem;
     font-size: 1.7rem;
-    color: #10221b;
+    color: #0b0f0e;
 }
   
 .header .navbar a:hover {
@@ -109,7 +109,7 @@ section {
 .header .navbar #nav-close {
     font-size: 5rem;
     cursor: pointer;
-    color: #10221b;
+    color: #050e0a;
     display: none;
 }
   
